@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Interactive calendar grid for schedule tracking.
+  name: simple-calendar-events version: 1.0 type: Repository author: VarshuAi description: >   Interactive calendar grid for schedule tracking. primary_tech: CSS
 primary_tech: CSS
 ```
 
